@@ -14,6 +14,7 @@ function App() {
         <option value="Compacto">Compacto</option>
         <option value="Monovolumen">Monovolumen</option>
         <option value="Cabrio">Cabrio</option>
+        <p>Hola</p>
       </select>
     </>
   )
